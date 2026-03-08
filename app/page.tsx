@@ -50,7 +50,7 @@ const slides = [
           transition={{ delay: 0.4 }}
           className="text-2xl text-zinc-400"
         >
-          Como vamos transformar sua operação local em uma máquina de vendas online.
+          Como vamos escalar sua operação e dominar o mercado digital.
         </motion.p>
       </div>
     )
@@ -64,10 +64,10 @@ const slides = [
       <div>
         <h2 className="text-4xl md:text-5xl font-bold mb-6">A Oportunidade Oculta</h2>
         <p className="text-xl text-zinc-400 leading-relaxed mb-8">
-          Gráficas tradicionais perdem milhares de reais todos os meses porque dependem apenas do cliente que passa na porta ou do boca a boca.
+          Sua gráfica já tem estrutura, capacidade produtiva e qualidade reconhecida. Mas o faturamento ainda depende demais de indicação e carteira fixa.
         </p>
         <p className="text-xl text-zinc-400 leading-relaxed">
-          Enquanto isso, gráficas online de outros estados estão imprimindo para os <strong>seus clientes</strong>. Vamos mudar esse jogo.
+          Enquanto isso, gráficas online menores estão capturando clientes que deveriam ser <strong>seus</strong>. Com a sua estrutura, o potencial digital é gigantesco.
         </p>
       </div>
     ),
@@ -97,10 +97,10 @@ const slides = [
     layout: 'feature',
     title: "1. Identidade Digital",
     icon: <Globe className="w-16 h-16 text-cyan-400" />,
-    headline: "De 'Gráfica de Bairro' para 'Empresa Referência'",
-    description: "Criamos uma presença online profissional que transmite confiança imediata.",
+    headline: "Sua Estrutura Merece uma Presença à Altura",
+    description: "Posicionamos sua marca no digital com a autoridade que o tamanho da sua operação exige.",
     profitTitle: "Como isso gera lucro?",
-    profitText: "Aumento do Ticket Médio. Uma marca com presença digital forte e profissional não briga por centavos. O cliente paga mais caro porque confia na qualidade e na entrega.",
+    profitText: "Aumento do Ticket Médio. Uma marca com presença digital forte e profissional atrai clientes maiores e projetos mais lucrativos. Sua capacidade produtiva justifica preços premium — o digital mostra isso.",
     color: "cyan"
   },
   {
@@ -156,7 +156,7 @@ const slides = [
       <div>
         <h2 className="text-4xl md:text-5xl font-bold mb-6">Sistema de Gestão Sob Medida</h2>
         <p className="text-xl text-zinc-400 leading-relaxed mb-8">
-          Não adianta vender muito se a casa estiver desorganizada. Vamos implementar um sistema para gerenciar tudo.
+          Uma operação do seu porte precisa de um sistema que acompanhe o crescimento. Vamos integrar tudo em uma plataforma sob medida.
         </p>
         <div className="bg-yellow-400/10 border border-yellow-400/20 rounded-2xl p-6">
           <h4 className="text-xl font-bold text-yellow-400 mb-2 flex items-center gap-2">
